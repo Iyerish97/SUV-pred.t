@@ -45,3 +45,5 @@ print("Accuracy: ", (tp+tn)/(tp+tn+fp+fn))
 Recall:  0.9193548387096774
 Precision:  0.9827586206896551
 Accuracy:  0.925
+
+#Accuracy of .92, shows it is a good model with "True-Positive" = 74 [57+17].
